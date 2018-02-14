@@ -1,0 +1,1 @@
+I used a forEach function to do the challenge.  I'm sure there is a way to get the code dryer. I'll look tonight.
